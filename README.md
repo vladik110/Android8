@@ -1,2 +1,2 @@
 # Android8
-![srcreenshot](screenshot.png)
+![Screenshot](screenshot.png)
